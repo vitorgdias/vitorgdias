@@ -3,7 +3,7 @@
 ## About Me
 - 👋 Hi, I’m Vitor Galves,
 - 🌎 I'm from Brazil,
-- 💻 I’m working as a Data QA Engineer, focusing in automated tests using Robot Framework with a global team,
+- 💻 I’m working as a Data QA Engineer with a global team, focused in automated tests development using Robot Framework,
 - 🎓 Bachelor degree in Chemical Engineering,
 - 💬 Languages: English - Full Professional | Portuguese - Native
 - 📚 Studying Data Science,
