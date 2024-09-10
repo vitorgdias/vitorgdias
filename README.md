@@ -11,7 +11,7 @@
 - 🎯 Targets: Carrer development, becoming a Data Scientist.
 
 
-**Data/Main Stacks:**
+**Main Stacks:**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
