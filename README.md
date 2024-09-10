@@ -1,9 +1,14 @@
 # Hey there, Welcome to my GitHub! 👋
 
 ## About Me
-I'm Vitor Galves, Bachelor in Chemical Engineering and working as a Data QA Engineer since 2021.
-My background is rooted in engineering, so problem solving and logical skills are already a part of me.
-I had a great knowledge in data automated tests and now I'm studying Data Science to improve my skills and to be a Data Scientist.
+- 👋 Hi, I’m Vitor Galves,
+- 🌎 I'm from Brazil,
+- 💻 I’m working as a Data QA Engineer, focusing in automated tests using Robot Framework with a global team,
+- 🎓 Bachelor degree in Chemical Engineering,
+- 💬 Languages: English - Full Professional | Portuguese - Native
+- 📚 Studying Data Science,
+- 🔮 Fun facts: Curiosity, Games, Animes,
+- 🎯 Targets: Carrer development, becoming a Data Scientist.
 
 - **Main Stack:**
 
