@@ -5,8 +5,9 @@
 - 🌎 I'm from Brazil,
 - 💻 I’m working as a Data QA Engineer with a global team, focused in automated tests development using Robot Framework,
 - 🎓 Bachelor degree in Chemical Engineering,
+- 📚 Postgraduate studies in Data Science and Analytics
 - 💬 Languages: English - Full Professional | Portuguese - Native
-- 📚 Studying Data Science,
+- 💻 Santander Coders Program 2024,
 - 🔮 Fun facts: Curiosity, Games, Animes,
 - 🎯 Targets: Carrer development, becoming a Data Scientist.
 
