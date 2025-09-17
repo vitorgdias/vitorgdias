@@ -18,6 +18,14 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🔗 **[ML_Studies](https://github.com/vitorgdias/ml_studies)** | An interactive web application built with Streamlit to explore, compare, and understand the behavior of various machine learning models on real-world regression and classification tasks. | `Python`, `Scikit-learn`, `Pandas`, `Streamlit`, `Matplotlib`, `Seaborn` |
+
+---
+
 ### 📫 Let's Connect
 
 <a href="mailto:galvesdiasv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
